@@ -1,30 +1,33 @@
 # About Me
+Software Engineer with over 4 years of hands-on experience in developing robust software solutions using .Net Core and Python. Adept at crafting scalable microservices, implementing Docker containers, and leveraging AWS services for scalable and resilient architectures. Recognized for problem-solving abilities and a passion for building innovative coding patterns.
 
-A Software Engineer with more than 2.5 years of experience developing software using .Net Core and Python. Expertise with Microservices, Docker, AWS Services, and Serverless architecture. Have had the opportunity to develop several applications using technologies such as .Net core 3.1 APIs, Console Applications, Kafka Consumers, Nuget packages and Python Fast APIs, Typer CLI Tools, Poetry scripts, and Wheel packages. A Real-Life problem solver who is inspired by how things work around us to build coding patterns based on that.
 
 # Technological Highlights :
 
-✔️ AWS Certified solutions architect associate
+✔️ AWS solutions architect associate and AWS Developer Associate certifications
 
-✔️ Developed highly scalable and highly available microservices using Docker and set up a cloud deployment strategy using AWS services such as AWS ECS, AWS EKS and AWS Lambda.
+✔️ Designed and implemented highly scalable microservices utilizing Docker and orchestrated cloud deployments with AWS ECS, EKS, and Lambda.
 
-✔️ Experience in both CI/CD solutions on Jenkins and Teamcity.
+✔️ Proficient in CI/CD solutions using Jenkins and Teamcity.
 
 ✔️ Extensive experience writing libraries and templates that help implement common functionality such as SFTP, Kafka, Logging, Metrics, and AWS S3.
 
-# Skill Set:
+✔️ Expertise in containerization and decoupling technologies, including Docker, Kubernetes, and Kafka.
 
-🧑‍💻Languages: C#, Python, DotNet Core 3.1, 
-Shell Scripting
 
-☁️Cloud: AWS Core Services like Lambda, Step Functions, Load Balancer, API Gateway, Dynamo DB, RDS, EC2, ECS, EKS, VPC, IAM, SQS, SNS.
+# Technologies:
 
-🖥Monitoring: PagerDuty, Datadog, Splunk Cloud
-Containerization and Decoupling: Docker, Kubernetes, Kafka
+🧑‍💻Languages and Frameworks: Python, C#, .Net Core, FastAPI, Poetry, Typer, Click, Docker, Microservices
 
-📀Database Technologies: Dynamo DB, SQL Server, RDS, MySQL, Flyway
+☁️Cloud: AWS Core Services (Lambda, Step Functions, Load Balancer, API Gateway, Dynamo DB, RDS, EC2, ECS, EKS, VPC, IAM, SQS, SNS)
 
-🛠Others: VS Code, Terraform, Poetry CLI, Swagger, FastAPI, Snowflake ETL Pipelines, Visual Studio, Git, CI/CD Pipelines, Typer, Postman, OpenAPI, Fivetran, Jira, NSwag, Jenkins
+🖥Logging and Monitoring: Loguru, Splunk Cloud, PagerDuty, DataDog, Cloudwatch
+
+☁️Containerization and Decoupling: Docker, Kubernetes, Kafka
+
+📀Database Technologies: MySQL, Snowflake, SQL Server, PostgreSQL Flyway, Fivetran, DBT
+
+🛠Others: Git, VS Code, Visual Studio, Jira, Swagger, Postman, NSwag, Sonarqube, Shell Scripting, Terraform, CI/CD Pipelines, OpenAPI, Jenkins, Kafka, Kubernetes
 
 # Side Projects:
 * [python-wheel-pkg-build](https://github.com/aakashkhanna/python-wheel-pkg-build)
